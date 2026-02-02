@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I’m Olga
 
-<!--
-**olgaleobel/olgaleobel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a BSc (Hons) Computing graduate (results pending).  
+I build data-driven prototypes and run user-focused evaluation.
 
-Here are some ideas to get you started:
+### Main project
+**Interpill** — Kotlin Multiplatform mobile prototype for personalised drug–drug interaction analysis.  
+- Multi-source data retrieval and validation (RxNorm, OpenFDA, DailyMed)
+- Clear, structured outputs for users
+- Usability study (N=34)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Machine Learning coursework (selected)
+- Data cleaning and validation
+- Regression and classification experiments
+- Basic evaluation metrics and result checking
+
+### Tools
+Excel (advanced) • Power BI (basic) • SQL (basic) • Python/Jupyter (intro) • Git/GitHub
+
+### Links
+- Interpill (GitHub): https://github.com/olgaleobel/interpill
+- LinkedIn: https://www.linkedin.com/in/olbel/
+- ML notebooks: link will be added later
