@@ -21,3 +21,14 @@ Excel (advanced) • Power BI (basic) • SQL (basic) • Python/Jupyter (intro)
 - Interpill (GitHub): https://github.com/olgaleobel/interpill
 - LinkedIn: https://www.linkedin.com/in/olbel/
 - ML notebooks: link will be added later
+
+## 🎬 Project Videos
+
+**Interpill – personalised drug interaction analysis prototype**
+- Video overview: https://youtu.be/krAb9nkezV8
+
+**Mobile Web App Development coursework (Java mobile mini-apps)**
+- Demo video: https://youtu.be/TLWqcI950Rw
+
+**Human Centred Computing – group mobile prototype**
+- Low-fidelity prototype presentation: https://youtu.be/qcaYSvk0LcM
