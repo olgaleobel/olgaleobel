@@ -1,34 +1,36 @@
-## Hi, I’m Olga
+## Hi, I’m Olga — BSc (Hons) Computing graduate, First Class (86%).
 
-I am a BSc (Hons) Computing graduate (First Class, 86%).  
-I build data-driven prototypes and run user-focused evaluation.
+I design and develop data-driven prototypes, conduct usability studies, and work with multi-source datasets using Kotlin, Python, SQL, Excel, and Power BI.
 
 ### Main project
 **Interpill** — Kotlin Multiplatform mobile prototype for personalised drug–drug interaction analysis.  
-- Multi-source data retrieval and validation (RxNorm, OpenFDA, DailyMed)
-- Clear, structured outputs for users
-- Usability study (N=34)
+- Designed and implemented a mobile prototype handling multi-source medical data (RxNorm, OpenFDA, DailyMed)
+- Developed rule-based interaction logic with structured outputs for end users
+- Conducted usability study with 34 participants to refine design and output presentation
+- 🎬 Video overview: https://youtu.be/krAb9nkezV8
+
+### Mini Projects (Java mobile apps)
+**Java Mobile Mini-Apps** Coursework
+- Developed several small Android apps in Java demonstrating core mobile concepts (UI, navigation, data handling)
+- Implemented basic CRUD functionality and simple data validation
+- 🎬 Demo video: https://youtu.be/TLWqcI950Rw
 
 ### Machine Learning coursework (selected)
-- Data cleaning and validation
-- Regression and classification experiments
-- Basic evaluation metrics and result checking
+- Cleaned and validated structured datasets
+- Built and evaluated regression and classification models
+- Analysed model performance using basic evaluation metrics
+
+### Other Academic/Group Work
+
+**Human Centred Computing** — Group Mobile Prototype (low-fidelity design)
+- Collaborated on a mobile prototype following HCI principles
+- Presented user flow and interface concepts
+- 🎬Low-fidelity prototype presentation: https://youtu.be/qcaYSvk0LcM
 
 ### Tools
-Excel (advanced) • Power BI (basic) • SQL (basic) • Python/Jupyter (intro) • Git/GitHub
+Kotlin (Android/Multiplatform) • Python (pandas, numpy, matplotlib, Jupyter) • Java • SQL (basic) • Excel (advanced) • Power BI (basic) • Git/GitHub
 
 ### Links
 - Interpill (GitHub): https://github.com/olgaleobel/interpill
 - LinkedIn: https://www.linkedin.com/in/olbel/
-- ML notebooks: link will be added later
 
-## 🎬 Project Videos
-
-**Interpill – personalised drug interaction analysis prototype**
-- Video overview: https://youtu.be/krAb9nkezV8
-
-**Mobile Web App Development coursework (Java mobile mini-apps)**
-- Demo video: https://youtu.be/TLWqcI950Rw
-
-**Human Centred Computing – group mobile prototype**
-- Low-fidelity prototype presentation: https://youtu.be/qcaYSvk0LcM
