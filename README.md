@@ -1,6 +1,6 @@
 ## Hi, I’m Olga
 
-I am a BSc (Hons) Computing graduate (provisional Provisional First Class, 86%)                                ).  
+I am a BSc (Hons) Computing graduate (First Class, 86%)                                ).  
 I build data-driven prototypes and run user-focused evaluation.
 
 ### Main project
