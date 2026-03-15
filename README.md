@@ -23,7 +23,6 @@ The projects demonstrate fundamental mobile development concepts:
 - Simple data handling and validation
 - Basic CRUD operations
 
-These apps were created as practice projects to explore core Android development principles.<br><br>
   🎬 Demo video: [Java mini mobile apps](https://youtu.be/TLWqcI950Rw)
 
 ### Machine Learning coursework
