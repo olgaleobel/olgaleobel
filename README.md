@@ -15,10 +15,10 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 ### Mini Projects (Java mobile apps)
 **Java Mobile Mini-Apps** Coursework
 - Developed several small Android apps in Java demonstrating core mobile concepts (UI, navigation, data handling)
-- Implemented basic CRUD functionality and simple data validation
-- 🎬 Demo video: https://youtu.be/TLWqcI950Rw
+- Implemented basic CRUD functionality and simple data validation<br><br>
+  🎬 Demo video: https://youtu.be/TLWqcI950Rw
 
-### Machine Learning coursework (selected)
+### Machine Learning coursework
 - Cleaned and validated structured datasets
 - Built and evaluated regression and classification models
 - Analysed model performance using basic evaluation metrics
@@ -27,8 +27,8 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 
 **Human Centred Computing** — Group Mobile Prototype (low-fidelity design)
 - Collaborated on a mobile prototype following HCI principles
-- Presented user flow and interface concepts
-- 🎬Low-fidelity prototype presentation: https://youtu.be/qcaYSvk0LcM
+- Presented user flow and interface concepts<br><br>
+  🎬Low-fidelity prototype presentation: https://youtu.be/qcaYSvk0LcM
 
 ### Tools
 Kotlin (Android/Multiplatform) • Python (pandas, numpy, matplotlib, Jupyter) • Java • SQL (basic) • Excel (advanced) • Power BI (basic) • Git/GitHub
