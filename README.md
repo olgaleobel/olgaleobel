@@ -8,6 +8,7 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 - Developed rule-based interaction logic with structured outputs for end users
 - Conducted usability study with 34 participants to refine design and output presentation
 - 🎬 Video overview: https://youtu.be/krAb9nkezV8
+- GitHub: https://github.com/olgaleobel/interpill
 
 ### Mini Projects (Java mobile apps)
 **Java Mobile Mini-Apps** Coursework
@@ -30,7 +31,6 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 ### Tools
 Kotlin (Android/Multiplatform) • Python (pandas, numpy, matplotlib, Jupyter) • Java • SQL (basic) • Excel (advanced) • Power BI (basic) • Git/GitHub
 
-### Links
-- Interpill (GitHub): https://github.com/olgaleobel/interpill
-- LinkedIn: https://www.linkedin.com/in/olbel/
+### LinkedIn
+https://www.linkedin.com/in/olbel/
 
