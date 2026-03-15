@@ -8,8 +8,8 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 - Implements rule-based interaction logic and AI-generated user-friendly summaries
 - Supports user-specific factors (allergies, chronic conditions) and OCR-based medicine input
 - Conducted usability study with 34 participants to refine design and output presentation<br><br>
-    🛠️ Explore project — [Interpill Project](https://github.com/olgaleobel/interpill)<br>
-    🎬 Video overview:  <a href="https://youtu.be/krAb9nkezV8" target="_blank">Watch here</a>
+    🛠️ Explore project: [Interpill Project](https://github.com/olgaleobel/interpill)<br>
+    🎬 Video overview: [Interpill Project](https://youtu.be/TLWqcI950Rw)
   
 
 ### Mini Projects (Java mobile apps)
