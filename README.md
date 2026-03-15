@@ -28,7 +28,8 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 **Human Centred Computing** — Group Mobile Prototype (low-fidelity design)
 - Collaborated on a mobile prototype following HCI principles
 - Presented user flow and interface concepts<br><br>
-  🎬Low-fidelity prototype presentation: https://youtu.be/qcaYSvk0LcM
+  🎬Low-fidelity prototype presentation: <a href="https://youtu.be/qcaYSvk0LcM" target="_blank">Watch here</a>
+
 
 ### Tools
 Kotlin (Android/Multiplatform) • Python (pandas, numpy, matplotlib, Jupyter) • Java • SQL (basic) • Excel (advanced) • Power BI (basic) • Git/GitHub
