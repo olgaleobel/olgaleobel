@@ -6,8 +6,7 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 **Interpill** — Kotlin Multiplatform mobile prototype for personalised drug–drug interaction analysis.  
 - Designed and implemented a mobile prototype handling multi-source medical data (RxNorm, OpenFDA, DailyMed)
 - Developed rule-based interaction logic with structured outputs for end users
-- Conducted usability study with 34 participants to refine design and output presentation
-&nbsp;
+- Conducted usability study with 34 participants to refine design and output presentation<br><br>
 - 🛠️ GitHub: https://github.com/olgaleobel/interpill
 - 🎬 Video overview: https://youtu.be/krAb9nkezV8
 
