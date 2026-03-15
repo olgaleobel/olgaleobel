@@ -21,10 +21,8 @@ The projects demonstrate fundamental mobile development concepts:
 - UI layouts and basic interface design
 - Screen navigation between activities
 - Simple data handling and validation
-- Basic CRUD operations
-  
-
-  🎬 Demo video: [Java mini mobile apps](https://youtu.be/TLWqcI950Rw)
+- Basic CRUD operations<br><br>
+    🎬 Demo video: [Java mini mobile apps](https://youtu.be/TLWqcI950Rw)
 
 ### Machine Learning coursework
 - Cleaned and validated structured datasets
