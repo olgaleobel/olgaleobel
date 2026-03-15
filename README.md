@@ -22,6 +22,7 @@ The projects demonstrate fundamental mobile development concepts:
 - Screen navigation between activities
 - Simple data handling and validation
 - Basic CRUD operations
+  
 
   🎬 Demo video: [Java mini mobile apps](https://youtu.be/TLWqcI950Rw)
 
