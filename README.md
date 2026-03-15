@@ -16,7 +16,7 @@ I design and develop data-driven prototypes, conduct usability studies, and work
 **Java Mobile Mini-Apps** Coursework
 - Developed several small Android apps in Java demonstrating core mobile concepts (UI, navigation, data handling)
 - Implemented basic CRUD functionality and simple data validation<br><br>
-  🎬 Demo video: <a href="https://youtu.be/TLWqcI950Rw" target="_blank">Watch here</a>
+  🎬 Demo video: [Java mini mobile apps] (https://youtu.be/TLWqcI950Rw)
 
 ### Machine Learning coursework
 - Cleaned and validated structured datasets
