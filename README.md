@@ -22,6 +22,8 @@ The projects demonstrate fundamental mobile development concepts:
 - Screen navigation between activities
 - Simple data handling and validation
 - Basic CRUD operations<br><br>
+
+🛠️ Explore project: [Java mini mobile apps](https://github.com/olgaleobel/Java-mini-apps/blob/main/README.md)<br>
     🎬 Demo video: [Java mini mobile apps](https://youtu.be/TLWqcI950Rw)
 
 ### Machine Learning coursework
