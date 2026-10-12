@@ -43,5 +43,5 @@ The projects demonstrate fundamental mobile development concepts:
 Kotlin (Android/Multiplatform) • Python (pandas, numpy, matplotlib, Jupyter) • Java • SQL (basic) • Excel (advanced) • Power BI (basic) • Git/GitHub
 
 ### LinkedIn
-https://www.linkedin.com/in/olbel/
+https://www.linkedin.com/in/olgabell/
 
